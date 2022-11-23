@@ -10,7 +10,7 @@ I'm a Computer Science MEng student at Durham university.
 
 # Repo Info
 
-Many of my current Repos are private due to University collusion rules.
+Many of my active Repos are private due to University collusion rules.
 They should be made public after the end of the year.
 
 gmail: jamesmedixon
