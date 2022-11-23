@@ -1,6 +1,6 @@
 
 
-## 🚀 About Me
+## About 
 I'm a Computer Science MEng student at Durham university.
 
 
