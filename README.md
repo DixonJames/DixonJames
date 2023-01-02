@@ -13,5 +13,5 @@ I'm a Computer Science MEng student at Durham university.
 Many of my active Repos are private due to University collusion rules.
 They should be made public after the end of the year.
 
-jamesaedixon[guess the symbol]@gmail.com
+jamesaedixon[guess the symbol]gmail.com
 
