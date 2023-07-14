@@ -1,7 +1,8 @@
 
 
 ## About 
-I'm a Computer Science MEng student at Durham university.
+Software engineer
+Computer Science - MEng 1st - Durham University.
 
 
 ## 🔗 Links
@@ -9,9 +10,6 @@ I'm a Computer Science MEng student at Durham university.
 
 
 # Repo Info
-
-Many of my active Repos are private due to University collusion rules.
-They should be made public after the end of the year.
 
 jamesaedixon[guess the symbol]gmail.com
 
