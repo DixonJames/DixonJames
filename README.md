@@ -1,7 +1,7 @@
 
 
 ## About 
-Software engineer
+Software engineer  
 Computer Science - MEng 1st - Durham University.
 
 
